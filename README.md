@@ -5,7 +5,7 @@ some description!
 
 Some wonderful text for tests !
 <<<<<<< HEAD
-I don't know s
-=======
+feautre-1-somethiing
+**=======**
 Hey Hey wait !
 >>>>>>> origin
